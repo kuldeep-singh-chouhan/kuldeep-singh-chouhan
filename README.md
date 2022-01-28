@@ -1,7 +1,7 @@
 ### Hi there 👋
 Glad you'r here!<br>
 <!--![](https://visitor-badge.glitch.me/badge?page_id=kuldeep-singh-chouhan) <br> -->
-![](https://komarev.com/ghpvc/?username=sandeepb20&label=PROFILE+VIEWS&color=blue&style=plastic)<br>
+![](https://komarev.com/ghpvc/?username=skuldeep-singh-chouhan&label=PROFILE+VIEWS&color=blue&style=plastic)<br>
 <!--
 **sandeepb20/sandeepb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=sandeepb20&show_icons=true&hide_border=true&hide=issues" /></th>
-   <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20&layout=compact&langs_count=8" /></th> 
+    <th><img src="https://github-readme-stats.vercel.app/api?username=kuldeep-singh-chouhan&show_icons=true&hide_border=true&hide=issues" /></th>
+   <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep-singh-chouhan&layout=compact&langs_count=8" /></th> 
    
   </tr>
 </table>
